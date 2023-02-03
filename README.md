@@ -1,1 +1,1 @@
-# Triangel-Test-C-
+# Triangel-Test-C++
